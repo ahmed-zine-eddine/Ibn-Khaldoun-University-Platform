@@ -8,16 +8,16 @@
 
 ```
 PFE/
-├── backend/src/modules/     ← Each group works HERE (their module folder)
-│   ├── auth/                ← ✅ Done (Group 1 + Group 8)
-│   ├── discipline/          ← Group 2
-│   ├── pfe/                 ← Group 3
-│   ├── affectation/         ← Group 4
-│   ├── reclamations/        ← Group 5
-│   ├── documents/           ← Group 6
-│   └── annonces/            ← Group 7
+├── backend/src/modules/     
+│   ├── auth/                
+│   ├── discipline/          
+│   ├── pfe/                 
+│   ├── affectation/         
+│   ├── reclamations/        
+│   ├── documents/           
+│   └── annonces/            
 │
-├── frontend/src/pages/       ← ✅ Frontend pages (Group 8 — DO NOT MODIFY)
+├── frontend/src/pages/       
 │   ├── Student/
 │   ├── Teacher/
 │   ├── Delegate/
@@ -29,9 +29,9 @@ PFE/
 │   ├── CommitteeMember/
 │   └── AssignmentManager/
 │
-├── frontend/src/services/api.js ← Shared API client (Group 8 — DO NOT MODIFY)
-├── frontend/src/layouts/        ← DashboardLayout (Group 8 — DO NOT MODIFY)
-├── backend/prisma/schema.prisma ← Database schema (DO NOT MODIFY)
+├── frontend/src/services/api.js 
+├── frontend/src/layouts/       
+├── backend/prisma/schema.prisma 
 └── docs/API_CONTRACT.md         ← 📄 Read this first!
 ```
 
