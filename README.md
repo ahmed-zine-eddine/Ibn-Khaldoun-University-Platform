@@ -8,6 +8,7 @@ Full-stack university management platform built With modern ChatBot & Multilingu
 PFE/
 ├── frontend/   → React 19 + Tailwind CSS frontend
 ├── backend/    → Node.js + Express API server
+├── ai-service/ → Python + FastAPI + uvicorn    
 └── .github/    → CI / collaboration config
 ```
 
