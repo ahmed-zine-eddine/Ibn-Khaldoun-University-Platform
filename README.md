@@ -1,6 +1,6 @@
 # PFE – Ibn Khaldoun University Platform
 
-Full-stack university management platform built with React, Express, and Tailwind CSS.
+Full-stack university management platform built With modern ChatBot & Multilingual Toxic Content Detection System 
 
 ## Structure
 
